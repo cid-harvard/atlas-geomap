@@ -19,12 +19,6 @@ interface FeatureCollection<G
 
 type IGeoJSONData = FeatureCollection<GeoJSON.MultiPolygon, {}>;
 
-interface ITooltipInfo {
-  id: number;
-  x: number;
-  y: number;
-}
-
 export type ICountryDatumDisjoint = {
   isPrimaryCountry: true;
 } | {
@@ -42,6 +36,12 @@ export type ICountryDatum = {
   regionName: string;
 } & ICountryDatumDisjoint;
 
+export interface ITooltipInfo {
+  id: number;
+  x: number;
+  y: number;
+}
+
 const throttleWait = 16; // in ms
 
 const Root = styled.div`
@@ -55,7 +55,7 @@ const Root = styled.div`
 interface IInteractiveProps {
   saveRootEl: (el: HTMLElement | null) => void;
   hideTooltip: () => void;
-  showTooltip: (info: any) => void;
+  showTooltip: (info: ITooltipInfo) => void;
   showDetailOverlay: (countryId: number) => void;
 }
 

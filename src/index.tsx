@@ -1,5 +1,5 @@
 import React, {useRef} from 'react'
-import Chart, {CountryData} from './chart';
+import Chart, {CountryData, ITooltipInfo} from './chart';
 import raw from 'raw.macro';
 import styled from 'styled-components/macro';
 const Root = styled.div`
@@ -11,15 +11,15 @@ const geoJSONData = JSON.parse(raw('./world_map_naturalearth_ashkyd_clean_geo.js
 
 interface Props {
   data: CountryData;
+  hideTooltip: () => void;
+  showTooltip: (info: ITooltipInfo) => void;
+  onCountryClick: (countryId: number) => void;
 }
 
-const GeoMap = ({data}: Props) => {
+const GeoMap = ({data, hideTooltip, showTooltip, onCountryClick}: Props) => {
   const chartRootEl = useRef<HTMLDivElement | null>(null);
 
   const rememberChartRootEl = (el: HTMLDivElement | null) => chartRootEl.current = el;
-  const hideTooltip = () => console.log('hide tooltip');
-  const showTooltip = () => console.log('show tooltip');
-  const showDetailOverlay = () => console.log('show showDetailOverlay');
 
   return (
     <Root ref={chartRootEl}>
@@ -27,7 +27,7 @@ const GeoMap = ({data}: Props) => {
         saveRootEl={rememberChartRootEl}
         hideTooltip={hideTooltip}
         showTooltip={showTooltip}
-        showDetailOverlay={showDetailOverlay}
+        showDetailOverlay={onCountryClick}
         geoJSONData={geoJSONData}
         width={800} height={640}
         countryData={data}

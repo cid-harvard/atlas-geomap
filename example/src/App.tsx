@@ -20,14 +20,17 @@ const Container = styled.div`
   margin: auto;
 `;
 
-const countryData = JSON.parse(raw('./test-data.json'));
+const data = JSON.parse(raw('./test-data.json'));
 
 const App = () => {
   return (
     <Root>
       <Container>
         <GeoMap
-          data={countryData}
+          data={data}
+          hideTooltip={() => console.log('hide tooltip')}
+          showTooltip={(info) => console.log(info)}
+          onCountryClick={(countryId) => console.log(countryId)}
         />
       </Container>
     </Root>
