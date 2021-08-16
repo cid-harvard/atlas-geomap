@@ -21,6 +21,7 @@ npm install --save atlas-geomap
 ```tsx
 import React from 'react'
 import GeoMap from 'atlas-geomap';
+import 'atlas-geomap/dist/index.css'
 
 const App = () => {
   return (
