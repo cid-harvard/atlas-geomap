@@ -11,7 +11,7 @@ const Root = styled.div`
   height: 100vh;
   display: flex;
   align-items: center;
-  background: salmon;
+  background: lightgray;
 `;
 
 const Container = styled.div`
