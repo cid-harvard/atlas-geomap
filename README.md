@@ -40,7 +40,10 @@ export default App
 ```
 The GeoMap component takes the following props:
 
-- **TBD**: `string | undefined`
+- **data**: `CountryData;`
+- **hideTooltip**: `() => void;`
+- **showTooltip**: `(info: ITooltipInfo) => void;`
+- **onCountryClick**: `(countryId: number) => void;`
 
 ## License
 

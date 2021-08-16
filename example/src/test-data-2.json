@@ -1,0 +1,3652 @@
+{
+    "1": {
+        "isPrimaryCountry": false,
+        "value": 439890066,
+        "percentage": 0.009438119789953582,
+        "color": "rgb(82, 135, 157)",
+        "shortLabel": "Afghanistan",
+        "longLabel": "Afghanistan",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 1,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$440M"
+            },
+            {
+                "label": "Share",
+                "value": "0.94%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$440M"
+            },
+            {
+                "label": "Share",
+                "value": "0.94%"
+            }
+        ]
+    },
+    "4": {
+        "isPrimaryCountry": false,
+        "value": 1111998,
+        "percentage": 0.000023858620917774497,
+        "color": "#B1E0BB",
+        "shortLabel": "Albania",
+        "longLabel": "Albania",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 4,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$1.11M"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$1.11M"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ]
+    },
+    "7": {
+        "isPrimaryCountry": false,
+        "value": 229933835,
+        "percentage": 0.004933375964196976,
+        "color": "rgb(105, 157, 164)",
+        "shortLabel": "United Arab Emirates",
+        "longLabel": "United Arab Emirates",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 7,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$230M"
+            },
+            {
+                "label": "Share",
+                "value": "0.49%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$230M"
+            },
+            {
+                "label": "Share",
+                "value": "0.49%"
+            }
+        ]
+    },
+    "8": {
+        "isPrimaryCountry": false,
+        "value": 1518670,
+        "percentage": 0.00003258402607666254,
+        "color": "#B1E0BB",
+        "shortLabel": "Argentina",
+        "longLabel": "Argentina",
+        "regionName": "South America",
+        "regionColor": "rgb(127, 20, 42)",
+        "id": 8,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$1.52M"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$1.52M"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ]
+    },
+    "9": {
+        "isPrimaryCountry": false,
+        "value": 6106767,
+        "percentage": 0.00013102455120078904,
+        "color": "#B1E0BB",
+        "shortLabel": "Armenia",
+        "longLabel": "Armenia",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 9,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$6.11M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$6.11M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ]
+    },
+    "14": {
+        "isPrimaryCountry": false,
+        "value": 4639799,
+        "percentage": 0.00009954982425837923,
+        "color": "#B1E0BB",
+        "shortLabel": "Australia",
+        "longLabel": "Australia",
+        "regionName": "Oceania",
+        "regionColor": "rgb(221, 159, 98)",
+        "id": 14,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$4.64M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$4.64M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ]
+    },
+    "15": {
+        "isPrimaryCountry": false,
+        "value": 914689848,
+        "percentage": 0.019625249632435286,
+        "color": "rgb(55, 110, 148)",
+        "shortLabel": "Austria",
+        "longLabel": "Austria",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 15,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$915M"
+            },
+            {
+                "label": "Share",
+                "value": "1.96%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$915M"
+            },
+            {
+                "label": "Share",
+                "value": "1.96%"
+            }
+        ]
+    },
+    "16": {
+        "isPrimaryCountry": false,
+        "value": 172453007,
+        "percentage": 0.0037000884175540888,
+        "color": "rgb(115, 167, 167)",
+        "shortLabel": "Azerbaijan",
+        "longLabel": "Azerbaijan",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 16,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$172M"
+            },
+            {
+                "label": "Share",
+                "value": "0.37%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$172M"
+            },
+            {
+                "label": "Share",
+                "value": "0.37%"
+            }
+        ]
+    },
+    "18": {
+        "isPrimaryCountry": false,
+        "value": 180658927,
+        "percentage": 0.003876151625007325,
+        "color": "rgb(114, 165, 167)",
+        "shortLabel": "Belgium",
+        "longLabel": "Belgium",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 18,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$181M"
+            },
+            {
+                "label": "Share",
+                "value": "0.39%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$181M"
+            },
+            {
+                "label": "Share",
+                "value": "0.39%"
+            }
+        ]
+    },
+    "19": {
+        "isPrimaryCountry": false,
+        "value": 2183948,
+        "percentage": 0.0000468579866475765,
+        "color": "#B1E0BB",
+        "shortLabel": "Benin",
+        "longLabel": "Benin",
+        "regionName": "Africa",
+        "regionColor": "rgb(153, 35, 125)",
+        "id": 19,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$2.18M"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$2.18M"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ]
+    },
+    "22": {
+        "isPrimaryCountry": false,
+        "value": 1690027,
+        "percentage": 0.0000362605989703252,
+        "color": "#B1E0BB",
+        "shortLabel": "Bangladesh",
+        "longLabel": "Bangladesh",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 22,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$1.69M"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$1.69M"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ]
+    },
+    "23": {
+        "isPrimaryCountry": false,
+        "value": 22504475,
+        "percentage": 0.000482847755102557,
+        "color": "#B1E0BB",
+        "shortLabel": "Bulgaria",
+        "longLabel": "Bulgaria",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 23,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$22.5M"
+            },
+            {
+                "label": "Share",
+                "value": "0.05%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$22.5M"
+            },
+            {
+                "label": "Share",
+                "value": "0.05%"
+            }
+        ]
+    },
+    "24": {
+        "isPrimaryCountry": false,
+        "value": 2017177,
+        "percentage": 0.0000432798092865757,
+        "color": "#B1E0BB",
+        "shortLabel": "Bahrain",
+        "longLabel": "Bahrain",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 24,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$2.02M"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$2.02M"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ]
+    },
+    "26": {
+        "isPrimaryCountry": false,
+        "value": 2888529,
+        "percentage": 0.0000619752179599228,
+        "color": "#B1E0BB",
+        "shortLabel": "Bosnia and Herzegovina",
+        "longLabel": "Bosnia and Herzegovina",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 26,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$2.89M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$2.89M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ]
+    },
+    "28": {
+        "isPrimaryCountry": false,
+        "value": 118374675,
+        "percentage": 0.002539803576166286,
+        "color": "rgb(129, 179, 172)",
+        "shortLabel": "Belarus",
+        "longLabel": "Belarus",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 28,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$118M"
+            },
+            {
+                "label": "Share",
+                "value": "0.25%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$118M"
+            },
+            {
+                "label": "Share",
+                "value": "0.25%"
+            }
+        ]
+    },
+    "32": {
+        "isPrimaryCountry": false,
+        "value": 60027292,
+        "percentage": 0.0012879235435212632,
+        "color": "rgb(154, 202, 180)",
+        "shortLabel": "Brazil",
+        "longLabel": "Brazil",
+        "regionName": "South America",
+        "regionColor": "rgb(127, 20, 42)",
+        "id": 32,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$60.0M"
+            },
+            {
+                "label": "Share",
+                "value": "0.13%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$60.0M"
+            },
+            {
+                "label": "Share",
+                "value": "0.13%"
+            }
+        ]
+    },
+    "34": {
+        "isPrimaryCountry": false,
+        "value": 138423378,
+        "percentage": 0.0029699611886530425,
+        "color": "rgb(123, 174, 170)",
+        "shortLabel": "Brunei",
+        "longLabel": "Brunei",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 34,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$138M"
+            },
+            {
+                "label": "Share",
+                "value": "0.30%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$138M"
+            },
+            {
+                "label": "Share",
+                "value": "0.30%"
+            }
+        ]
+    },
+    "39": {
+        "isPrimaryCountry": false,
+        "value": 274769855,
+        "percentage": 0.005895361151797813,
+        "color": "rgb(99, 151, 162)",
+        "shortLabel": "Canada",
+        "longLabel": "Canada",
+        "regionName": "North America",
+        "regionColor": "rgb(199, 36, 43)",
+        "id": 39,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$275M"
+            },
+            {
+                "label": "Share",
+                "value": "0.59%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$275M"
+            },
+            {
+                "label": "Share",
+                "value": "0.59%"
+            }
+        ]
+    },
+    "41": {
+        "isPrimaryCountry": false,
+        "value": 814750513,
+        "percentage": 0.01748098794442913,
+        "color": "rgb(59, 114, 150)",
+        "shortLabel": "Switzerland",
+        "longLabel": "Switzerland",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 41,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$815M"
+            },
+            {
+                "label": "Share",
+                "value": "1.75%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$815M"
+            },
+            {
+                "label": "Share",
+                "value": "1.75%"
+            }
+        ]
+    },
+    "42": {
+        "isPrimaryCountry": false,
+        "value": 310253,
+        "percentage": 0.0000066566744864669635,
+        "color": "#B1E0BB",
+        "shortLabel": "Chile",
+        "longLabel": "Chile",
+        "regionName": "South America",
+        "regionColor": "rgb(127, 20, 42)",
+        "id": 42,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$310k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$310k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ]
+    },
+    "43": {
+        "isPrimaryCountry": false,
+        "value": 8674485363,
+        "percentage": 0.1861165738900614,
+        "color": "#0A4486",
+        "shortLabel": "China",
+        "longLabel": "China",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 43,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$8.67B"
+            },
+            {
+                "label": "Share",
+                "value": "18.61%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$8.67B"
+            },
+            {
+                "label": "Share",
+                "value": "18.61%"
+            }
+        ]
+    },
+    "46": {
+        "isPrimaryCountry": false,
+        "value": 10903697,
+        "percentage": 0.00023394572051862954,
+        "color": "#B1E0BB",
+        "shortLabel": "Democratic Republic of the Congo",
+        "longLabel": "Democratic Republic of the Congo",
+        "regionName": "Africa",
+        "regionColor": "rgb(153, 35, 125)",
+        "id": 46,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$10.9M"
+            },
+            {
+                "label": "Share",
+                "value": "0.02%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$10.9M"
+            },
+            {
+                "label": "Share",
+                "value": "0.02%"
+            }
+        ]
+    },
+    "49": {
+        "isPrimaryCountry": false,
+        "value": 3313310,
+        "percentage": 0.00007108916317571741,
+        "color": "#B1E0BB",
+        "shortLabel": "Colombia",
+        "longLabel": "Colombia",
+        "regionName": "South America",
+        "regionColor": "rgb(127, 20, 42)",
+        "id": 49,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$3.31M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$3.31M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ]
+    },
+    "58": {
+        "isPrimaryCountry": false,
+        "value": 14035446,
+        "percentage": 0.00030113937752216676,
+        "color": "#B1E0BB",
+        "shortLabel": "Cyprus",
+        "longLabel": "Cyprus",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 58,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$14.0M"
+            },
+            {
+                "label": "Share",
+                "value": "0.03%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$14.0M"
+            },
+            {
+                "label": "Share",
+                "value": "0.03%"
+            }
+        ]
+    },
+    "59": {
+        "isPrimaryCountry": false,
+        "value": 389402955,
+        "percentage": 0.008354886868147424,
+        "color": "rgb(86, 139, 158)",
+        "shortLabel": "Czechia",
+        "longLabel": "Czech Republic",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 59,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$389M"
+            },
+            {
+                "label": "Share",
+                "value": "0.84%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$389M"
+            },
+            {
+                "label": "Share",
+                "value": "0.84%"
+            }
+        ]
+    },
+    "61": {
+        "isPrimaryCountry": false,
+        "value": 2977675800,
+        "percentage": 0.06388791897847919,
+        "color": "rgb(12, 70, 135)",
+        "shortLabel": "Germany",
+        "longLabel": "Germany",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 61,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$2.98B"
+            },
+            {
+                "label": "Share",
+                "value": "6.39%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$2.98B"
+            },
+            {
+                "label": "Share",
+                "value": "6.39%"
+            }
+        ]
+    },
+    "64": {
+        "isPrimaryCountry": false,
+        "value": 2004738,
+        "percentage": 0.00004301292266843772,
+        "color": "#B1E0BB",
+        "shortLabel": "Denmark",
+        "longLabel": "Denmark",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 64,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$2.00M"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$2.00M"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ]
+    },
+    "65": {
+        "isPrimaryCountry": false,
+        "value": 5089276,
+        "percentage": 0.00010919363778525475,
+        "color": "#B1E0BB",
+        "shortLabel": "Dominican Republic",
+        "longLabel": "Dominican Republic",
+        "regionName": "North America",
+        "regionColor": "rgb(199, 36, 43)",
+        "id": 65,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$5.09M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$5.09M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ]
+    },
+    "66": {
+        "isPrimaryCountry": false,
+        "value": 92381955,
+        "percentage": 0.0019821133167396902,
+        "color": "rgb(138, 188, 175)",
+        "shortLabel": "Algeria",
+        "longLabel": "Algeria",
+        "regionName": "Africa",
+        "regionColor": "rgb(153, 35, 125)",
+        "id": 66,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$92.4M"
+            },
+            {
+                "label": "Share",
+                "value": "0.20%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$92.4M"
+            },
+            {
+                "label": "Share",
+                "value": "0.20%"
+            }
+        ]
+    },
+    "68": {
+        "isPrimaryCountry": false,
+        "value": 3996858,
+        "percentage": 0.00008575511816044124,
+        "color": "#B1E0BB",
+        "shortLabel": "Egypt",
+        "longLabel": "Egypt",
+        "regionName": "Africa",
+        "regionColor": "rgb(153, 35, 125)",
+        "id": 68,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$4.00M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$4.00M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ]
+    },
+    "71": {
+        "isPrimaryCountry": false,
+        "value": 1585153881,
+        "percentage": 0.034010479823810856,
+        "color": "rgb(35, 91, 142)",
+        "shortLabel": "Spain",
+        "longLabel": "Spain",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 71,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$1.59B"
+            },
+            {
+                "label": "Share",
+                "value": "3.40%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$1.59B"
+            },
+            {
+                "label": "Share",
+                "value": "3.40%"
+            }
+        ]
+    },
+    "72": {
+        "isPrimaryCountry": false,
+        "value": 33483846,
+        "percentage": 0.0007184171091882718,
+        "color": "rgb(175, 222, 186)",
+        "shortLabel": "Estonia",
+        "longLabel": "Estonia",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 72,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$33.5M"
+            },
+            {
+                "label": "Share",
+                "value": "0.07%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$33.5M"
+            },
+            {
+                "label": "Share",
+                "value": "0.07%"
+            }
+        ]
+    },
+    "73": {
+        "isPrimaryCountry": false,
+        "value": 1141192,
+        "percentage": 0.000024484996665818565,
+        "color": "#B1E0BB",
+        "shortLabel": "Ethiopia",
+        "longLabel": "Ethiopia",
+        "regionName": "Africa",
+        "regionColor": "rgb(153, 35, 125)",
+        "id": 73,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$1.14M"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$1.14M"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ]
+    },
+    "74": {
+        "isPrimaryCountry": false,
+        "value": 45652793,
+        "percentage": 0.0009795095692839637,
+        "color": "rgb(164, 212, 183)",
+        "shortLabel": "Finland",
+        "longLabel": "Finland",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 74,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$45.7M"
+            },
+            {
+                "label": "Share",
+                "value": "0.10%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$45.7M"
+            },
+            {
+                "label": "Share",
+                "value": "0.10%"
+            }
+        ]
+    },
+    "77": {
+        "isPrimaryCountry": false,
+        "value": 3548091923,
+        "percentage": 0.07612655793650216,
+        "color": "#0A4486",
+        "shortLabel": "France",
+        "longLabel": "France",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 77,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$3.55B"
+            },
+            {
+                "label": "Share",
+                "value": "7.61%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$3.55B"
+            },
+            {
+                "label": "Share",
+                "value": "7.61%"
+            }
+        ]
+    },
+    "81": {
+        "isPrimaryCountry": false,
+        "value": 452549025,
+        "percentage": 0.009709725767657364,
+        "color": "rgb(81, 134, 156)",
+        "shortLabel": "United Kingdom",
+        "longLabel": "United Kingdom of Great Britain and Northern Ireland",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 81,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$453M"
+            },
+            {
+                "label": "Share",
+                "value": "0.97%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$453M"
+            },
+            {
+                "label": "Share",
+                "value": "0.97%"
+            }
+        ]
+    },
+    "82": {
+        "isPrimaryCountry": false,
+        "value": 26747329,
+        "percentage": 0.0005738808731436534,
+        "color": "#B1E0BB",
+        "shortLabel": "Georgia",
+        "longLabel": "Georgia",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 82,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$26.7M"
+            },
+            {
+                "label": "Share",
+                "value": "0.06%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$26.7M"
+            },
+            {
+                "label": "Share",
+                "value": "0.06%"
+            }
+        ]
+    },
+    "90": {
+        "isPrimaryCountry": false,
+        "value": 1518882186,
+        "percentage": 0.0325885786615935,
+        "color": "rgb(37, 93, 142)",
+        "shortLabel": "Greece",
+        "longLabel": "Greece",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 90,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$1.52B"
+            },
+            {
+                "label": "Share",
+                "value": "3.26%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$1.52B"
+            },
+            {
+                "label": "Share",
+                "value": "3.26%"
+            }
+        ]
+    },
+    "97": {
+        "isPrimaryCountry": false,
+        "value": 2518249,
+        "percentage": 0.000054030626194979404,
+        "color": "#B1E0BB",
+        "shortLabel": "Hong Kong",
+        "longLabel": "Hong Kong",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 97,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$2.52M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$2.52M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ]
+    },
+    "100": {
+        "isPrimaryCountry": false,
+        "value": 24421224,
+        "percentage": 0.000523972818084256,
+        "color": "#B1E0BB",
+        "shortLabel": "Croatia",
+        "longLabel": "Croatia",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 100,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$24.4M"
+            },
+            {
+                "label": "Share",
+                "value": "0.05%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$24.4M"
+            },
+            {
+                "label": "Share",
+                "value": "0.05%"
+            }
+        ]
+    },
+    "102": {
+        "isPrimaryCountry": false,
+        "value": 261404204,
+        "percentage": 0.00560859264994055,
+        "color": "rgb(100, 152, 163)",
+        "shortLabel": "Hungary",
+        "longLabel": "Hungary",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 102,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$261M"
+            },
+            {
+                "label": "Share",
+                "value": "0.56%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$261M"
+            },
+            {
+                "label": "Share",
+                "value": "0.56%"
+            }
+        ]
+    },
+    "103": {
+        "isPrimaryCountry": false,
+        "value": 112202470,
+        "percentage": 0.0024073750112571833,
+        "color": "rgb(131, 181, 172)",
+        "shortLabel": "Indonesia",
+        "longLabel": "Indonesia",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 103,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$112M"
+            },
+            {
+                "label": "Share",
+                "value": "0.24%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$112M"
+            },
+            {
+                "label": "Share",
+                "value": "0.24%"
+            }
+        ]
+    },
+    "104": {
+        "isPrimaryCountry": false,
+        "value": 1596137419,
+        "percentage": 0.03424613858351903,
+        "color": "rgb(35, 91, 142)",
+        "shortLabel": "India",
+        "longLabel": "India",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 104,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$1.60B"
+            },
+            {
+                "label": "Share",
+                "value": "3.42%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$1.60B"
+            },
+            {
+                "label": "Share",
+                "value": "3.42%"
+            }
+        ]
+    },
+    "107": {
+        "isPrimaryCountry": false,
+        "value": 299518074,
+        "percentage": 0.006426349854575214,
+        "color": "rgb(95, 148, 161)",
+        "shortLabel": "Iran",
+        "longLabel": "Iran",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 107,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$300M"
+            },
+            {
+                "label": "Share",
+                "value": "0.64%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$300M"
+            },
+            {
+                "label": "Share",
+                "value": "0.64%"
+            }
+        ]
+    },
+    "108": {
+        "isPrimaryCountry": false,
+        "value": 2410096,
+        "percentage": 0.000051710135125642885,
+        "color": "#B1E0BB",
+        "shortLabel": "Iraq",
+        "longLabel": "Iraq",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 108,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$2.41M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$2.41M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ]
+    },
+    "110": {
+        "isPrimaryCountry": false,
+        "value": 71663039,
+        "percentage": 0.001537575860133462,
+        "color": "rgb(147, 196, 178)",
+        "shortLabel": "Israel",
+        "longLabel": "Israel",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 110,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$71.7M"
+            },
+            {
+                "label": "Share",
+                "value": "0.15%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$71.7M"
+            },
+            {
+                "label": "Share",
+                "value": "0.15%"
+            }
+        ]
+    },
+    "111": {
+        "isPrimaryCountry": false,
+        "value": 2389970444,
+        "percentage": 0.05127832858339781,
+        "color": "rgb(20, 77, 137)",
+        "shortLabel": "Italy",
+        "longLabel": "Italy",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 111,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$2.39B"
+            },
+            {
+                "label": "Share",
+                "value": "5.13%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$2.39B"
+            },
+            {
+                "label": "Share",
+                "value": "5.13%"
+            }
+        ]
+    },
+    "113": {
+        "isPrimaryCountry": false,
+        "value": 6113308,
+        "percentage": 0.00013116489249584816,
+        "color": "#B1E0BB",
+        "shortLabel": "Jordan",
+        "longLabel": "Jordan",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 113,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$6.11M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$6.11M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ]
+    },
+    "114": {
+        "isPrimaryCountry": false,
+        "value": 856302919,
+        "percentage": 0.018372521115330026,
+        "color": "rgb(57, 112, 149)",
+        "shortLabel": "Japan",
+        "longLabel": "Japan",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 114,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$856M"
+            },
+            {
+                "label": "Share",
+                "value": "1.84%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$856M"
+            },
+            {
+                "label": "Share",
+                "value": "1.84%"
+            }
+        ]
+    },
+    "115": {
+        "id": 115,
+        "isPrimaryCountry": true,
+        "shortLabel": "Kazakhstan",
+        "longLabel": "Kazakhstan",
+        "regionColor": "rgb(107, 193, 145)",
+        "detailOverlayInfo": [],
+        "tooltipInfo": [],
+        "regionName": ""
+    },
+    "117": {
+        "isPrimaryCountry": false,
+        "value": 626795316,
+        "percentage": 0.013448290228472241,
+        "color": "rgb(69, 123, 153)",
+        "shortLabel": "Kyrgyzstan",
+        "longLabel": "Kyrgyzstan",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 117,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$627M"
+            },
+            {
+                "label": "Share",
+                "value": "1.34%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$627M"
+            },
+            {
+                "label": "Share",
+                "value": "1.34%"
+            }
+        ]
+    },
+    "121": {
+        "isPrimaryCountry": false,
+        "value": 1649695584,
+        "percentage": 0.03539526291268744,
+        "color": "rgb(34, 90, 141)",
+        "shortLabel": "South Korea",
+        "longLabel": "South Korea",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 121,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$1.65B"
+            },
+            {
+                "label": "Share",
+                "value": "3.54%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$1.65B"
+            },
+            {
+                "label": "Share",
+                "value": "3.54%"
+            }
+        ]
+    },
+    "122": {
+        "isPrimaryCountry": false,
+        "value": 202198,
+        "percentage": 0.000004338286069158548,
+        "color": "#B1E0BB",
+        "shortLabel": "Kuwait",
+        "longLabel": "Kuwait",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 122,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$202k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$202k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ]
+    },
+    "124": {
+        "isPrimaryCountry": false,
+        "value": 7196185,
+        "percentage": 0.0001543987039267832,
+        "color": "#B1E0BB",
+        "shortLabel": "Lebanon",
+        "longLabel": "Lebanon",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 124,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$7.20M"
+            },
+            {
+                "label": "Share",
+                "value": "0.02%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$7.20M"
+            },
+            {
+                "label": "Share",
+                "value": "0.02%"
+            }
+        ]
+    },
+    "128": {
+        "isPrimaryCountry": false,
+        "value": 3455275,
+        "percentage": 0.00007413511210601392,
+        "color": "#B1E0BB",
+        "shortLabel": "Sri Lanka",
+        "longLabel": "Sri Lanka",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 128,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$3.46M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$3.46M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ]
+    },
+    "130": {
+        "isPrimaryCountry": false,
+        "value": 593104477,
+        "percentage": 0.012725431953454864,
+        "color": "rgb(71, 125, 153)",
+        "shortLabel": "Lithuania",
+        "longLabel": "Lithuania",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 130,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$593M"
+            },
+            {
+                "label": "Share",
+                "value": "1.27%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$593M"
+            },
+            {
+                "label": "Share",
+                "value": "1.27%"
+            }
+        ]
+    },
+    "131": {
+        "isPrimaryCountry": false,
+        "value": 599950,
+        "percentage": 0.000012872306982223717,
+        "color": "#B1E0BB",
+        "shortLabel": "Luxembourg",
+        "longLabel": "Luxembourg",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 131,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$600k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$600k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ]
+    },
+    "132": {
+        "isPrimaryCountry": false,
+        "value": 24338561,
+        "percentage": 0.0005221992310985546,
+        "color": "#B1E0BB",
+        "shortLabel": "Latvia",
+        "longLabel": "Latvia",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 132,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$24.3M"
+            },
+            {
+                "label": "Share",
+                "value": "0.05%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$24.3M"
+            },
+            {
+                "label": "Share",
+                "value": "0.05%"
+            }
+        ]
+    },
+    "134": {
+        "isPrimaryCountry": false,
+        "value": 69724428,
+        "percentage": 0.0014959817341044335,
+        "color": "rgb(148, 197, 178)",
+        "shortLabel": "Morocco",
+        "longLabel": "Morocco",
+        "regionName": "Africa",
+        "regionColor": "rgb(153, 35, 125)",
+        "id": 134,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$69.7M"
+            },
+            {
+                "label": "Share",
+                "value": "0.15%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$69.7M"
+            },
+            {
+                "label": "Share",
+                "value": "0.15%"
+            }
+        ]
+    },
+    "135": {
+        "isPrimaryCountry": false,
+        "value": 20427343,
+        "percentage": 0.0004382815733430765,
+        "color": "#B1E0BB",
+        "shortLabel": "Moldova",
+        "longLabel": "Moldova",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 135,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$20.4M"
+            },
+            {
+                "label": "Share",
+                "value": "0.04%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$20.4M"
+            },
+            {
+                "label": "Share",
+                "value": "0.04%"
+            }
+        ]
+    },
+    "138": {
+        "isPrimaryCountry": false,
+        "value": 6091156,
+        "percentage": 0.00013068960731496605,
+        "color": "#B1E0BB",
+        "shortLabel": "Mexico",
+        "longLabel": "Mexico",
+        "regionName": "North America",
+        "regionColor": "rgb(199, 36, 43)",
+        "id": 138,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$6.09M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$6.09M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ]
+    },
+    "140": {
+        "isPrimaryCountry": false,
+        "value": 787021,
+        "percentage": 0.000016886033691902144,
+        "color": "#B1E0BB",
+        "shortLabel": "North Macedonia",
+        "longLabel": "North Macedonia",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 140,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$787k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$787k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ]
+    },
+    "141": {
+        "isPrimaryCountry": false,
+        "value": 118604,
+        "percentage": 0.000002544723889190202,
+        "color": "#B1E0BB",
+        "shortLabel": "Mali",
+        "longLabel": "Mali",
+        "regionName": "Africa",
+        "regionColor": "rgb(153, 35, 125)",
+        "id": 141,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$119k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$119k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ]
+    },
+    "142": {
+        "isPrimaryCountry": false,
+        "value": 6123364,
+        "percentage": 0.00013138065034069062,
+        "color": "#B1E0BB",
+        "shortLabel": "Malta",
+        "longLabel": "Malta",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 142,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$6.12M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$6.12M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ]
+    },
+    "144": {
+        "isPrimaryCountry": false,
+        "value": 4623988,
+        "percentage": 0.0000992105892459683,
+        "color": "#B1E0BB",
+        "shortLabel": "Montenegro",
+        "longLabel": "Montenegro",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 144,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$4.62M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$4.62M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ]
+    },
+    "145": {
+        "isPrimaryCountry": false,
+        "value": 40473196,
+        "percentage": 0.0008683780372759546,
+        "color": "rgb(168, 216, 184)",
+        "shortLabel": "Mongolia",
+        "longLabel": "Mongolia",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 145,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$40.5M"
+            },
+            {
+                "label": "Share",
+                "value": "0.09%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$40.5M"
+            },
+            {
+                "label": "Share",
+                "value": "0.09%"
+            }
+        ]
+    },
+    "147": {
+        "isPrimaryCountry": false,
+        "value": 2878533,
+        "percentage": 0.00006176074745305673,
+        "color": "#B1E0BB",
+        "shortLabel": "Mozambique",
+        "longLabel": "Mozambique",
+        "regionName": "Africa",
+        "regionColor": "rgb(153, 35, 125)",
+        "id": 147,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$2.88M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$2.88M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ]
+    },
+    "153": {
+        "isPrimaryCountry": false,
+        "value": 28395912,
+        "percentage": 0.0006092522648624223,
+        "color": "#B1E0BB",
+        "shortLabel": "Malaysia",
+        "longLabel": "Malaysia",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 153,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$28.4M"
+            },
+            {
+                "label": "Share",
+                "value": "0.06%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$28.4M"
+            },
+            {
+                "label": "Share",
+                "value": "0.06%"
+            }
+        ]
+    },
+    "155": {
+        "isPrimaryCountry": false,
+        "value": 3981672,
+        "percentage": 0.00008542929291861766,
+        "color": "#B1E0BB",
+        "shortLabel": "Namibia",
+        "longLabel": "Namibia",
+        "regionName": "Africa",
+        "regionColor": "rgb(153, 35, 125)",
+        "id": 155,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$3.98M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$3.98M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ]
+    },
+    "159": {
+        "isPrimaryCountry": false,
+        "value": 162197,
+        "percentage": 0.0000034800392959342283,
+        "color": "#B1E0BB",
+        "shortLabel": "Nigeria",
+        "longLabel": "Nigeria",
+        "regionName": "Africa",
+        "regionColor": "rgb(153, 35, 125)",
+        "id": 159,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$162k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$162k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ]
+    },
+    "162": {
+        "isPrimaryCountry": false,
+        "value": 219817445,
+        "percentage": 0.00471632241368127,
+        "color": "rgb(107, 158, 165)",
+        "shortLabel": "Netherlands",
+        "longLabel": "Netherlands",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 162,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$220M"
+            },
+            {
+                "label": "Share",
+                "value": "0.47%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$220M"
+            },
+            {
+                "label": "Share",
+                "value": "0.47%"
+            }
+        ]
+    },
+    "163": {
+        "isPrimaryCountry": false,
+        "value": 11626340,
+        "percentage": 0.0002494504834731342,
+        "color": "#B1E0BB",
+        "shortLabel": "Norway",
+        "longLabel": "Norway",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 163,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$11.6M"
+            },
+            {
+                "label": "Share",
+                "value": "0.02%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$11.6M"
+            },
+            {
+                "label": "Share",
+                "value": "0.02%"
+            }
+        ]
+    },
+    "166": {
+        "isPrimaryCountry": false,
+        "value": 133268,
+        "percentage": 0.000002859349290619202,
+        "color": "#B1E0BB",
+        "shortLabel": "New Zealand",
+        "longLabel": "New Zealand",
+        "regionName": "Oceania",
+        "regionColor": "rgb(221, 159, 98)",
+        "id": 166,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$133k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$133k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ]
+    },
+    "167": {
+        "isPrimaryCountry": false,
+        "value": 444945,
+        "percentage": 0.000009546576598392418,
+        "color": "#B1E0BB",
+        "shortLabel": "Oman",
+        "longLabel": "Oman",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 167,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$445k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$445k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ]
+    },
+    "168": {
+        "isPrimaryCountry": false,
+        "value": 967618,
+        "percentage": 0.00002076085663392841,
+        "color": "#B1E0BB",
+        "shortLabel": "Pakistan",
+        "longLabel": "Pakistan",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 168,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$968k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$968k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ]
+    },
+    "173": {
+        "isPrimaryCountry": false,
+        "value": 105084,
+        "percentage": 0.0000022546437318443156,
+        "color": "#B1E0BB",
+        "shortLabel": "Peru",
+        "longLabel": "Peru",
+        "regionName": "South America",
+        "regionColor": "rgb(127, 20, 42)",
+        "id": 173,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$105k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$105k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ]
+    },
+    "177": {
+        "isPrimaryCountry": false,
+        "value": 1169542910,
+        "percentage": 0.02509328338428743,
+        "color": "rgb(46, 102, 145)",
+        "shortLabel": "Poland",
+        "longLabel": "Poland",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 177,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$1.17B"
+            },
+            {
+                "label": "Share",
+                "value": "2.51%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$1.17B"
+            },
+            {
+                "label": "Share",
+                "value": "2.51%"
+            }
+        ]
+    },
+    "179": {
+        "isPrimaryCountry": false,
+        "value": 236829085,
+        "percentage": 0.005081317917225025,
+        "color": "rgb(104, 156, 164)",
+        "shortLabel": "Portugal",
+        "longLabel": "Portugal",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 179,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$237M"
+            },
+            {
+                "label": "Share",
+                "value": "0.51%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$237M"
+            },
+            {
+                "label": "Share",
+                "value": "0.51%"
+            }
+        ]
+    },
+    "183": {
+        "isPrimaryCountry": false,
+        "value": 1893348,
+        "percentage": 0.00004062297971527512,
+        "color": "#B1E0BB",
+        "shortLabel": "Qatar",
+        "longLabel": "Qatar",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 183,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$1.89M"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$1.89M"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ]
+    },
+    "185": {
+        "isPrimaryCountry": false,
+        "value": 1614307157,
+        "percentage": 0.03463598181265908,
+        "color": "rgb(34, 91, 142)",
+        "shortLabel": "Romania",
+        "longLabel": "Romania",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 185,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$1.61B"
+            },
+            {
+                "label": "Share",
+                "value": "3.46%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$1.61B"
+            },
+            {
+                "label": "Share",
+                "value": "3.46%"
+            }
+        ]
+    },
+    "186": {
+        "isPrimaryCountry": false,
+        "value": 5695704557,
+        "percentage": 0.12220494630844994,
+        "color": "#0A4486",
+        "shortLabel": "Russia",
+        "longLabel": "Russian Federation",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 186,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$5.70B"
+            },
+            {
+                "label": "Share",
+                "value": "12.22%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$5.70B"
+            },
+            {
+                "label": "Share",
+                "value": "12.22%"
+            }
+        ]
+    },
+    "188": {
+        "isPrimaryCountry": false,
+        "value": 12320437,
+        "percentage": 0.00026434277392973983,
+        "color": "#B1E0BB",
+        "shortLabel": "Saudi Arabia",
+        "longLabel": "Saudi Arabia",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 188,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$12.3M"
+            },
+            {
+                "label": "Share",
+                "value": "0.03%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$12.3M"
+            },
+            {
+                "label": "Share",
+                "value": "0.03%"
+            }
+        ]
+    },
+    "191": {
+        "isPrimaryCountry": false,
+        "value": 13262382,
+        "percentage": 0.0002845528000992052,
+        "color": "#B1E0BB",
+        "shortLabel": "Senegal",
+        "longLabel": "Senegal",
+        "regionName": "Africa",
+        "regionColor": "rgb(153, 35, 125)",
+        "id": 191,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$13.3M"
+            },
+            {
+                "label": "Share",
+                "value": "0.03%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$13.3M"
+            },
+            {
+                "label": "Share",
+                "value": "0.03%"
+            }
+        ]
+    },
+    "192": {
+        "isPrimaryCountry": false,
+        "value": 206559673,
+        "percentage": 0.0044318685240499174,
+        "color": "rgb(109, 160, 165)",
+        "shortLabel": "Singapore",
+        "longLabel": "Singapore",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 192,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$207M"
+            },
+            {
+                "label": "Share",
+                "value": "0.44%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$207M"
+            },
+            {
+                "label": "Share",
+                "value": "0.44%"
+            }
+        ]
+    },
+    "197": {
+        "isPrimaryCountry": false,
+        "value": 242427,
+        "percentage": 0.000005201424726693139,
+        "color": "#B1E0BB",
+        "shortLabel": "El Salvador",
+        "longLabel": "El Salvador",
+        "regionName": "North America",
+        "regionColor": "rgb(199, 36, 43)",
+        "id": 197,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$242k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$242k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ]
+    },
+    "201": {
+        "isPrimaryCountry": false,
+        "value": 3126159,
+        "percentage": 0.0000670737200154038,
+        "color": "#B1E0BB",
+        "shortLabel": "Serbia",
+        "longLabel": "Serbia",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 201,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$3.13M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$3.13M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ]
+    },
+    "206": {
+        "isPrimaryCountry": false,
+        "value": 26551508,
+        "percentage": 0.0005696794096457519,
+        "color": "#B1E0BB",
+        "shortLabel": "Slovakia",
+        "longLabel": "Slovakia",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 206,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$26.6M"
+            },
+            {
+                "label": "Share",
+                "value": "0.06%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$26.6M"
+            },
+            {
+                "label": "Share",
+                "value": "0.06%"
+            }
+        ]
+    },
+    "207": {
+        "isPrimaryCountry": false,
+        "value": 20968200,
+        "percentage": 0.00044988600260798954,
+        "color": "#B1E0BB",
+        "shortLabel": "Slovenia",
+        "longLabel": "Slovenia",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 207,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$21.0M"
+            },
+            {
+                "label": "Share",
+                "value": "0.04%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$21.0M"
+            },
+            {
+                "label": "Share",
+                "value": "0.04%"
+            }
+        ]
+    },
+    "208": {
+        "isPrimaryCountry": false,
+        "value": 15215908,
+        "percentage": 0.0003264669368935306,
+        "color": "#B1E0BB",
+        "shortLabel": "Sweden",
+        "longLabel": "Sweden",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 208,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$15.2M"
+            },
+            {
+                "label": "Share",
+                "value": "0.03%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$15.2M"
+            },
+            {
+                "label": "Share",
+                "value": "0.03%"
+            }
+        ]
+    },
+    "216": {
+        "isPrimaryCountry": false,
+        "value": 6480158,
+        "percentage": 0.00013903589143980812,
+        "color": "#B1E0BB",
+        "shortLabel": "Thailand",
+        "longLabel": "Thailand",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 216,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$6.48M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$6.48M"
+            },
+            {
+                "label": "Share",
+                "value": "0.01%"
+            }
+        ]
+    },
+    "217": {
+        "isPrimaryCountry": false,
+        "value": 652697716,
+        "percentage": 0.014004042615131714,
+        "color": "rgb(67, 121, 152)",
+        "shortLabel": "Tajikistan",
+        "longLabel": "Tajikistan",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 217,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$653M"
+            },
+            {
+                "label": "Share",
+                "value": "1.40%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$653M"
+            },
+            {
+                "label": "Share",
+                "value": "1.40%"
+            }
+        ]
+    },
+    "219": {
+        "isPrimaryCountry": false,
+        "value": 116159333,
+        "percentage": 0.0024922720113781977,
+        "color": "rgb(130, 180, 172)",
+        "shortLabel": "Turkmenistan",
+        "longLabel": "Turkmenistan",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 219,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$116M"
+            },
+            {
+                "label": "Share",
+                "value": "0.25%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$116M"
+            },
+            {
+                "label": "Share",
+                "value": "0.25%"
+            }
+        ]
+    },
+    "222": {
+        "isPrimaryCountry": false,
+        "value": 1406376,
+        "percentage": 0.00003017468723132238,
+        "color": "#B1E0BB",
+        "shortLabel": "Trinidad and Tobago",
+        "longLabel": "Trinidad and Tobago",
+        "regionName": "North America",
+        "regionColor": "rgb(199, 36, 43)",
+        "id": 222,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$1.41M"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$1.41M"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ]
+    },
+    "223": {
+        "isPrimaryCountry": false,
+        "value": 34801421,
+        "percentage": 0.0007466865147589083,
+        "color": "rgb(174, 221, 186)",
+        "shortLabel": "Tunisia",
+        "longLabel": "Tunisia",
+        "regionName": "Africa",
+        "regionColor": "rgb(153, 35, 125)",
+        "id": 223,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$34.8M"
+            },
+            {
+                "label": "Share",
+                "value": "0.07%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$34.8M"
+            },
+            {
+                "label": "Share",
+                "value": "0.07%"
+            }
+        ]
+    },
+    "224": {
+        "isPrimaryCountry": false,
+        "value": 1431893136,
+        "percentage": 0.030722173535012942,
+        "color": "rgb(39, 95, 143)",
+        "shortLabel": "Turkey",
+        "longLabel": "Turkey",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 224,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$1.43B"
+            },
+            {
+                "label": "Share",
+                "value": "3.07%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$1.43B"
+            },
+            {
+                "label": "Share",
+                "value": "3.07%"
+            }
+        ]
+    },
+    "226": {
+        "isPrimaryCountry": false,
+        "value": 155006,
+        "percentage": 0.000003325751839464238,
+        "color": "#B1E0BB",
+        "shortLabel": "Tanzania",
+        "longLabel": "Tanzania",
+        "regionName": "Africa",
+        "regionColor": "rgb(153, 35, 125)",
+        "id": 226,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$155k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$155k"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ]
+    },
+    "228": {
+        "isPrimaryCountry": false,
+        "value": 516400035,
+        "percentage": 0.011079689601051873,
+        "color": "rgb(76, 129, 155)",
+        "shortLabel": "Ukraine",
+        "longLabel": "Ukraine",
+        "regionName": "Europe",
+        "regionColor": "rgb(42, 135, 211)",
+        "id": 228,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$516M"
+            },
+            {
+                "label": "Share",
+                "value": "1.11%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$516M"
+            },
+            {
+                "label": "Share",
+                "value": "1.11%"
+            }
+        ]
+    },
+    "230": {
+        "isPrimaryCountry": false,
+        "value": 1123435,
+        "percentage": 0.000024104008991706812,
+        "color": "#B1E0BB",
+        "shortLabel": "Uruguay",
+        "longLabel": "Uruguay",
+        "regionName": "South America",
+        "regionColor": "rgb(127, 20, 42)",
+        "id": 230,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$1.12M"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$1.12M"
+            },
+            {
+                "label": "Share",
+                "value": "0.00%"
+            }
+        ]
+    },
+    "231": {
+        "isPrimaryCountry": false,
+        "value": 1001880304,
+        "percentage": 0.02149597605222372,
+        "color": "rgb(52, 107, 147)",
+        "shortLabel": "United States of America",
+        "longLabel": "United States of America",
+        "regionName": "North America",
+        "regionColor": "rgb(199, 36, 43)",
+        "id": 231,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$1.00B"
+            },
+            {
+                "label": "Share",
+                "value": "2.15%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$1.00B"
+            },
+            {
+                "label": "Share",
+                "value": "2.15%"
+            }
+        ]
+    },
+    "232": {
+        "isPrimaryCountry": false,
+        "value": 1931935544,
+        "percentage": 0.0414508998953869,
+        "color": "rgb(28, 85, 140)",
+        "shortLabel": "Uzbekistan",
+        "longLabel": "Uzbekistan",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 232,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$1.93B"
+            },
+            {
+                "label": "Share",
+                "value": "4.15%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$1.93B"
+            },
+            {
+                "label": "Share",
+                "value": "4.15%"
+            }
+        ]
+    },
+    "237": {
+        "isPrimaryCountry": false,
+        "value": 46800000,
+        "percentage": 0.001004123621581915,
+        "color": "rgb(163, 211, 182)",
+        "shortLabel": "British Virgin Islands",
+        "longLabel": "British Virgin Islands",
+        "regionName": "North America",
+        "regionColor": "rgb(199, 36, 43)",
+        "id": 237,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$46.8M"
+            },
+            {
+                "label": "Share",
+                "value": "0.10%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$46.8M"
+            },
+            {
+                "label": "Share",
+                "value": "0.10%"
+            }
+        ]
+    },
+    "239": {
+        "isPrimaryCountry": false,
+        "value": 38580044,
+        "percentage": 0.0008277592628647357,
+        "color": "rgb(170, 217, 185)",
+        "shortLabel": "Vietnam",
+        "longLabel": "Vietnam",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 239,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$38.6M"
+            },
+            {
+                "label": "Share",
+                "value": "0.08%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$38.6M"
+            },
+            {
+                "label": "Share",
+                "value": "0.08%"
+            }
+        ]
+    },
+    "246": {
+        "isPrimaryCountry": false,
+        "value": 20090679,
+        "percentage": 0.00043105823413503694,
+        "color": "#B1E0BB",
+        "shortLabel": "South Africa",
+        "longLabel": "South Africa",
+        "regionName": "Africa",
+        "regionColor": "rgb(153, 35, 125)",
+        "id": 246,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$20.1M"
+            },
+            {
+                "label": "Share",
+                "value": "0.04%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$20.1M"
+            },
+            {
+                "label": "Share",
+                "value": "0.04%"
+            }
+        ]
+    },
+    "247": {
+        "isPrimaryCountry": false,
+        "value": 7959110,
+        "percentage": 0.00017076774268736828,
+        "color": "#B1E0BB",
+        "shortLabel": "Zambia",
+        "longLabel": "Zambia",
+        "regionName": "Africa",
+        "regionColor": "rgb(153, 35, 125)",
+        "id": 247,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$7.96M"
+            },
+            {
+                "label": "Share",
+                "value": "0.02%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$7.96M"
+            },
+            {
+                "label": "Share",
+                "value": "0.02%"
+            }
+        ]
+    },
+    "249": {
+        "isPrimaryCountry": false,
+        "value": 64055275,
+        "percentage": 0.0013743464682569552,
+        "color": "rgb(151, 200, 179)",
+        "shortLabel": "Taiwan",
+        "longLabel": "Taiwan",
+        "regionName": "Asia",
+        "regionColor": "rgb(107, 193, 145)",
+        "id": 249,
+        "tooltipInfo": [
+            {
+                "label": "Gross Export",
+                "value": "$64.1M"
+            },
+            {
+                "label": "Share",
+                "value": "0.14%"
+            }
+        ],
+        "detailOverlayInfo": [
+            {
+                "label": "Year",
+                "value": 2019
+            },
+            {
+                "label": "Gross Export",
+                "value": "$64.1M"
+            },
+            {
+                "label": "Share",
+                "value": "0.14%"
+            }
+        ]
+    }
+}
