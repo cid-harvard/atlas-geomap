@@ -31,6 +31,13 @@ const App = () => {
       hideTooltip={() => console.log('hide tooltip')}
       showTooltip={(info) => console.log(info)}
       onCountryClick={(countryId) => console.log(countryId)}
+      domainEnd={1000000000}
+      domainSpectrumEnd={398107170.55349696}
+      domainSpectrumStart={10000000}
+      domainStart={100000}
+      rangeEnd={"#0A4486"}
+      rangeStart={"#B1E0BB"}
+      showSelectedCountry={true}
     />
   )
 }
@@ -44,6 +51,13 @@ The GeoMap component takes the following props:
 - **hideTooltip**: `() => void;`
 - **showTooltip**: `(info: ITooltipInfo) => void;`
 - **onCountryClick**: `(countryId: number) => void;`
+- **domainEnd**: `number`
+- **domainSpectrumEnd**: `number`
+- **domainSpectrumStart**: `number`
+- **domainStart**: `number`
+- **rangeEnd**: `string`
+- **rangeStart**: `string`
+- **showSelectedCountry**: `boolean`
 
 ## License
 

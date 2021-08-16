@@ -41,6 +41,14 @@ const App = () => {
           hideTooltip={() => console.log('hide tooltip')}
           showTooltip={(info) => console.log(info)}
           onCountryClick={(countryId) => console.log(countryId)}
+
+          domainEnd={1000000000}
+          domainSpectrumEnd={398107170.55349696}
+          domainSpectrumStart={10000000}
+          domainStart={100000}
+          rangeEnd={"#0A4486"}
+          rangeStart={"#B1E0BB"}
+          showSelectedCountry={true}
         />
       </Container>
     </Root>
