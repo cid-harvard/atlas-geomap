@@ -1,6 +1,5 @@
 import Control from 'ol/control/Control';
 import {inAndOut} from 'ol/easing';
-import styles from './zoomPanControls.css';
 
 // Copied from `ol.inherits` method implementation:
 const ol_inherits = function(childCtor: any, parentCtor: any) {
@@ -36,7 +35,7 @@ const getZoomPanReset = (
     button.addEventListener('touchstart', zoomToFitUSA);
 
     const element = document.createElement('div');
-    element.className = `${styles.geoMapZoomContainer} ol-control ol-unselectable`;
+    element.className = `geoMapZoomContainer geoMapContainer ol-control ol-unselectable`;
     element.appendChild(button);
 
     Control.call(this, {

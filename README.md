@@ -21,11 +21,17 @@ npm install --save atlas-geomap
 ```tsx
 import React from 'react'
 import GeoMap from 'atlas-geomap';
-import 'atlas-geomap/dist/index.css'
 
 const App = () => {
+  ...
+
   return (
-    <GeoMap />
+    <GeoMap
+      data={data}
+      hideTooltip={() => console.log('hide tooltip')}
+      showTooltip={(info) => console.log(info)}
+      onCountryClick={(countryId) => console.log(countryId)}
+    />
   )
 }
 

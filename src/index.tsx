@@ -1,10 +1,12 @@
 import React, {useRef} from 'react'
 import Chart, {CountryData, ITooltipInfo} from './chart';
+import styles from './chart/styling';
 import raw from 'raw.macro';
 import styled from 'styled-components/macro';
 const Root = styled.div`
   width: 100%;
   height: 100%;
+  ${styles}
 `;
 
 const geoJSONData = JSON.parse(raw('./world_map_naturalearth_ashkyd_clean_geo.json'));
