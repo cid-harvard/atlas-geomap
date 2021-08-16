@@ -1,6 +1,12 @@
 import React, {useRef} from 'react'
 import Chart, {CountryData} from './chart';
 import raw from 'raw.macro';
+import styled from 'styled-components/macro';
+const Root = styled.div`
+  width: 100%;
+  height: 100%;
+`;
+
 const geoJSONData = JSON.parse(raw('./world_map_naturalearth_ashkyd_clean_geo.json'));
 
 interface Props {
@@ -16,7 +22,7 @@ const GeoMap = ({data}: Props) => {
   const showDetailOverlay = () => console.log('show showDetailOverlay');
 
   return (
-      <div ref={chartRootEl} style={{width: 800, height: 640}}>
+    <Root ref={chartRootEl}>
       <Chart
         saveRootEl={rememberChartRootEl}
         hideTooltip={hideTooltip}
@@ -26,7 +32,7 @@ const GeoMap = ({data}: Props) => {
         width={800} height={640}
         countryData={data}
       />
-      </div>
+    </Root>
   );
 }
 
