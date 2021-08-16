@@ -1,7 +1,7 @@
 {
   "name": "atlas-geomap",
   "version": "1.0.0",
-  "description": "Made with create-react-library",
+  "description": "Modular Geo Map for visualizing import/export data",
   "author": "wsoeltz",
   "license": "MIT",
   "repository": "cid-harvard/atlas-geomap",
