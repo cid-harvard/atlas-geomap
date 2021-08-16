@@ -38,5 +38,3 @@ The GeoMap component takes the following props:
 ## License
 
 MIT © [The President and Fellows of Harvard College](https://www.harvard.edu/)
-
-> :warning: **License**: While this package has a MIT license, it uses [Greensock](https://greensock.com/), which is not an Open-Source software. All of the Greensock Code used here falls within their "No Charge" License. If you intend to use this package, make sure to familiarize yourself with the [Greensock "No Charge" License](https://greensock.com/standard-license/).
